@@ -19,7 +19,7 @@ html {
 
 body {
 	background: $black;
-  font: 18px/1.4 $star travel;
+  font: 18px/1.4 $helvetica;
   color: $dark blue;
 }
 
@@ -31,7 +31,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $star travel;
+  font-family: $helvetica;
   color: $light blue;
   font-weight: bold;
 
